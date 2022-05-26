@@ -24,7 +24,7 @@ int main(void){
    ark.close();
    ark.clear();
 
-// LEU O ARQUIVO UMA VEZ E COMEÇA A SEGUNDA LEITURA
+// LEU O ARQUIVO UMA VEZ E COMEÇA A SEGUNDA LEITURA PINTO ENORME
 //-------------------------------------------------
 
     int x[linha];
